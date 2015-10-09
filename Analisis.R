@@ -23,9 +23,11 @@ dt[NABAN %in% c("2711120000", "2711130000", "2711140000"), grupo := "Gasolina li
 peso <- dt[,.(FOB.Sum = sum(PBK)),by=.(date,grupo)]
 valor <- dt[,.(FOB.Sum = sum(PBK)),by=.(date,grupo)]
 
+write.csv(peso, file = "/Users/fabiangarcia/Documents/BBVA/Scripts/importaciones/peso.csv")
 
+write.csv(valor, file = "/Users/fabiangarcia/Documents/BBVA/Scripts/importaciones/valor.csv")
 
-# Link donde saque las partidas
+# Link donde saque las partidas: https://www.dane.gov.co/files/investigaciones/pib/ambientales/Flujos_energetico.pdf
 
 
 

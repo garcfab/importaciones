@@ -1,202 +1,202 @@
 "","date","grupo","FOB.Sum"
-"1",2014-12-01,NA,2652322903.24
-"2",2014-12-01,"Gasolina licuado de petroleo",24220
-"3",2014-12-01,"Otro Kerosene",13330580
-"4",2014-12-01,"Gas/Diesel/Fuel Oil",286731948
-"5",2014-12-01,"Gas Natural",80.41
-"6",2011-01-01,NA,1976552964.44
-"7",2011-01-01,"Gasolina motor",20410610.62
-"8",2011-01-01,"Gas/Diesel/Fuel Oil",199406623
-"9",2011-01-01,"Querosene.Jet Fuel",194400
-"10",2011-01-01,"Gasolina licuado de petroleo",2619328
-"11",2011-02-01,NA,1863844703.73
-"12",2011-02-01,"Gasolina licuado de petroleo",1328280.96
-"13",2011-02-01,"Gas/Diesel/Fuel Oil",245002343.9
-"14",2011-02-01,"Gasolina motor",54369998.4
-"15",2011-02-01,"Otro Kerosene",6.33
-"16",2011-03-01,NA,2070100781.4
-"17",2011-03-01,"Gasolina motor",1129260.51
-"18",2011-03-01,"Gas/Diesel/Fuel Oil",78677417.3
-"19",2011-03-01,"Gasolina aviación",2.71
-"20",2011-03-01,"Gasolina licuado de petroleo",1306291
-"21",2011-04-01,NA,1925396993.09
-"22",2011-04-01,"Gasolina licuado de petroleo",1315704.2
-"23",2011-04-01,"Gas/Diesel/Fuel Oil",272192808.3
-"24",2011-04-01,"Gasolina motor",7512009.29
+"1",2014-12-01,NA,7532262925.35
+"2",2014-12-01,"Gasolina licuado de petroleo",41361.9
+"3",2014-12-01,"Otro Kerosene",10971481.95
+"4",2014-12-01,"Gas/Diesel/Fuel Oil",213016318.82
+"5",2014-12-01,"Gas Natural",6338.55
+"6",2011-01-01,NA,3712189343.13
+"7",2011-01-01,"Gasolina motor",16480763.88
+"8",2011-01-01,"Gas/Diesel/Fuel Oil",152835183.76
+"9",2011-01-01,"Querosene.Jet Fuel",202949.2
+"10",2011-01-01,"Gasolina licuado de petroleo",1764157.37
+"11",2011-02-01,NA,3813739033.52
+"12",2011-02-01,"Gasolina licuado de petroleo",925366.72
+"13",2011-02-01,"Gas/Diesel/Fuel Oil",197453381.24
+"14",2011-02-01,"Gasolina motor",46528956.38
+"15",2011-02-01,"Otro Kerosene",195
+"16",2011-03-01,NA,4973525807.03
+"17",2011-03-01,"Gasolina motor",338824.12
+"18",2011-03-01,"Gas/Diesel/Fuel Oil",68347508.7
+"19",2011-03-01,"Gasolina aviación",170.7
+"20",2011-03-01,"Gasolina licuado de petroleo",929618.83
+"21",2011-04-01,NA,4306984348.44
+"22",2011-04-01,"Gasolina licuado de petroleo",970947.49
+"23",2011-04-01,"Gas/Diesel/Fuel Oil",256056620.69
+"24",2011-04-01,"Gasolina motor",7092932.63
 "25",2011-04-01,"Otro Kerosene",4
-"26",2011-04-01,"Querosene.Jet Fuel",301460
-"27",2011-05-01,NA,2203477926.57
-"28",2011-05-01,"Gasolina licuado de petroleo",22419.3
-"29",2011-05-01,"Gasolina motor",17366625.99
-"30",2011-05-01,"Otro Kerosene",412
-"31",2011-05-01,"Gas/Diesel/Fuel Oil",257531805.17
-"32",2011-05-01,"Querosene.Jet Fuel",320760
-"33",2011-06-01,NA,2222906842.47
-"34",2011-06-01,"Gasolina licuado de petroleo",25737.07
-"35",2011-06-01,"Gasolina motor",37017504.07
-"36",2011-06-01,"Gas/Diesel/Fuel Oil",183967016.81
-"37",2011-06-01,"Gasolina aviación",0.03
-"38",2011-07-01,NA,2161704372.84
-"39",2011-07-01,"Gasolina motor",14563409.37
-"40",2011-07-01,"Gas/Diesel/Fuel Oil",104996330.79
-"41",2011-07-01,"Gasolina licuado de petroleo",36438.5
-"42",2011-08-01,NA,2115636699.59
-"43",2011-08-01,"Gasolina motor",10975348.41
-"44",2011-08-01,"Gas/Diesel/Fuel Oil",77633687.2
-"45",2011-08-01,"Gasolina licuado de petroleo",1958356.58
-"46",2011-08-01,"Gas Natural",187.39
-"47",2011-09-01,NA,2199965791.92
-"48",2011-09-01,"Gasolina motor",45224916.09
-"49",2011-09-01,"Gas/Diesel/Fuel Oil",241275348.21
-"50",2011-09-01,"Gas Natural",126
-"51",2011-09-01,"Gasolina licuado de petroleo",1007561
-"52",2011-10-01,NA,2125519353.9
-"53",2011-10-01,"Gasolina motor",44869383.62
-"54",2011-10-01,"Gas/Diesel/Fuel Oil",178892274.9
-"55",2011-10-01,"Gasolina aviación",1173
-"56",2011-10-01,"Otro Kerosene",3.5
-"57",2011-10-01,"Gasolina licuado de petroleo",2867660
-"58",2011-11-01,NA,2203783637.85
-"59",2011-11-01,"Gasolina motor",35713978.97
-"60",2011-11-01,"Otro Kerosene",1.91
-"61",2011-11-01,"Gas/Diesel/Fuel Oil",298138594.46
-"62",2011-11-01,"Gasolina licuado de petroleo",2931631
-"63",2011-12-01,NA,1777445926.82
-"64",2011-12-01,"Gasolina motor",19835767.36
-"65",2011-12-01,"Gas/Diesel/Fuel Oil",26823617
-"66",2011-12-01,"Gasolina licuado de petroleo",2972519.8
-"67",2011-12-01,"Gas Natural",54
-"68",2012-01-01,NA,2131180977.62
-"69",2012-01-01,"Gas/Diesel/Fuel Oil",360131036.2
-"70",2012-01-01,"Gasolina licuado de petroleo",12148.81
-"71",2012-02-01,NA,2419001130.25
-"72",2012-02-01,"Gas/Diesel/Fuel Oil",171675265.6
-"73",2012-02-01,"Gasolina licuado de petroleo",14044.71
-"74",2012-02-01,"Gas Natural",34.93
-"75",2012-02-01,"Querosene.Jet Fuel",257410
-"76",2012-03-01,NA,2394806458.24
-"77",2012-03-01,"Gas/Diesel/Fuel Oil",217442866.45
-"78",2012-03-01,"Gasolina licuado de petroleo",37085.29
-"79",2012-04-01,NA,1915145557.5
-"80",2012-04-01,"Gas/Diesel/Fuel Oil",152771349.18
-"81",2012-04-01,"Gasolina licuado de petroleo",24328.06
-"82",2012-05-01,NA,2482604876.82
-"83",2012-05-01,"Gas/Diesel/Fuel Oil",381404738.97
-"84",2012-05-01,"Gasolina licuado de petroleo",36300
-"85",2012-06-01,NA,2516599327.51
-"86",2012-06-01,"Gas/Diesel/Fuel Oil",372309283.8
-"87",2012-06-01,"Gasolina licuado de petroleo",34981.97
-"88",2012-07-01,NA,2372983165
-"89",2012-07-01,"Gas/Diesel/Fuel Oil",352918780.81
-"90",2012-07-01,"Gasolina licuado de petroleo",29893.63
-"91",2012-07-01,"Otro Kerosene",3
-"92",2012-08-01,NA,2560380570.92
-"93",2012-08-01,"Gas/Diesel/Fuel Oil",217410166.26
-"94",2012-08-01,"Gasolina licuado de petroleo",45673
-"95",2012-08-01,"Gas Natural",12
-"96",2012-09-01,NA,2153010832.23
-"97",2012-09-01,"Gas/Diesel/Fuel Oil",282277727.87
-"98",2012-09-01,"Gasolina licuado de petroleo",23090
-"99",2012-10-01,NA,2308703829.06
-"100",2012-10-01,"Gas/Diesel/Fuel Oil",228336744
-"101",2012-10-01,"Gasolina licuado de petroleo",23180
-"102",2012-11-01,NA,2371494475.94
-"103",2012-11-01,"Gas/Diesel/Fuel Oil",229328912.01
-"104",2012-11-01,"Gasolina licuado de petroleo",46770
-"105",2012-12-01,NA,2140919713.21
-"106",2012-12-01,"Gas/Diesel/Fuel Oil",99926991.72
-"107",2012-12-01,"Gasolina licuado de petroleo",95926.97
-"108",2013-01-01,NA,2560861513.26
-"109",2013-01-01,"Gas/Diesel/Fuel Oil",455662016.4
-"110",2013-01-01,"Gasolina licuado de petroleo",36838.75
-"111",2013-01-01,"Gas Natural",172
-"112",2013-02-01,NA,2125605779.76
-"113",2013-02-01,"Gas/Diesel/Fuel Oil",264169780.2
-"114",2013-02-01,"Gasolina licuado de petroleo",67455.22
-"115",2013-03-01,NA,2090250117.85
-"116",2013-03-01,"Gas/Diesel/Fuel Oil",248108042
-"117",2013-03-01,"Gasolina licuado de petroleo",45300
-"118",2013-04-01,NA,2699631184.94
-"119",2013-04-01,"Gas/Diesel/Fuel Oil",158555702.9
-"120",2013-04-01,"Gasolina licuado de petroleo",45658.29
-"121",2013-04-01,"Gas Natural",16.45
-"122",2013-05-01,NA,2402138499.88
-"123",2013-05-01,"Gas/Diesel/Fuel Oil",367565593.47
-"124",2013-05-01,"Otro Kerosene",1132.42
-"125",2013-05-01,"Gasolina licuado de petroleo",22536.54
-"126",2013-06-01,NA,2233648329.84
-"127",2013-06-01,"Gas/Diesel/Fuel Oil",206613733.13
-"128",2013-06-01,"Gasolina licuado de petroleo",22559.31
-"129",2013-06-01,"Otro Kerosene",17220
-"130",2013-06-01,"Gas Natural",92.74
-"131",2013-07-01,NA,2697945148.48
-"132",2013-07-01,"Gasolina licuado de petroleo",46326.01
-"133",2013-07-01,"Otro Kerosene",157
-"134",2013-07-01,"Gas/Diesel/Fuel Oil",404657985
-"135",2013-08-01,NA,2563738832.97
-"136",2013-08-01,"Gas/Diesel/Fuel Oil",244358832
-"137",2013-08-01,"Gasolina licuado de petroleo",25160.78
-"138",2013-08-01,"Gas Natural",510
-"139",2013-09-01,NA,2512760678.29
-"140",2013-09-01,"Gas/Diesel/Fuel Oil",431345472
-"141",2013-09-01,"Otro Kerosene",1487.51
-"142",2013-09-01,"Querosene.Jet Fuel",42.47
-"143",2013-09-01,"Gas Natural",4553.48
-"144",2013-09-01,"Gasolina licuado de petroleo",45610
-"145",2013-10-01,NA,2754143721.19
-"146",2013-10-01,"Gas/Diesel/Fuel Oil",279648648.95
-"147",2013-10-01,"Gasolina licuado de petroleo",22974.55
-"148",2013-10-01,"Gas Natural",60.43
-"149",2013-11-01,NA,2447280146.35
-"150",2013-11-01,"Otro Kerosene",880
-"151",2013-11-01,"Gas/Diesel/Fuel Oil",218034093
-"152",2013-11-01,"Gasolina licuado de petroleo",67480
-"153",2013-12-01,NA,2195318494.08
-"154",2013-12-01,"Gas/Diesel/Fuel Oil",221647677.21
-"155",2013-12-01,"Gasolina licuado de petroleo",37673.45
-"156",2014-01-01,NA,2463004529.42
-"157",2014-01-01,"Gas/Diesel/Fuel Oil",377910700.29
-"158",2014-01-01,"Gas Natural",56.5
-"159",2014-01-01,"Gasolina licuado de petroleo",45380
-"160",2014-02-01,NA,2597539519.64
-"161",2014-02-01,"Gas/Diesel/Fuel Oil",392573900.9
-"162",2014-02-01,"Gasolina licuado de petroleo",24412.39
-"163",2014-02-01,"Otro Kerosene",600
-"164",2014-03-01,NA,2705824774.3
-"165",2014-03-01,"Gasolina licuado de petroleo",92435.09
-"166",2014-03-01,"Otro Kerosene",165.86
-"167",2014-03-01,"Gas/Diesel/Fuel Oil",340504685
-"168",2014-04-01,NA,3216795161.18
-"169",2014-04-01,"Gasolina licuado de petroleo",32.86
-"170",2014-04-01,"Gas/Diesel/Fuel Oil",290969853
-"171",2014-04-01,"Gas Natural",169.52
-"172",2014-05-01,NA,3105790856.5
-"173",2014-05-01,"Otro Kerosene",799.2
-"174",2014-05-01,"Gas/Diesel/Fuel Oil",278831957
-"175",2014-05-01,"Gasolina licuado de petroleo",2523.84
-"176",2014-06-01,NA,2828357891.13
-"177",2014-06-01,"Gas/Diesel/Fuel Oil",382011647
-"178",2014-06-01,"Gasolina licuado de petroleo",65.75
-"179",2014-07-01,NA,2720574528.98
-"180",2014-07-01,"Gasolina licuado de petroleo",2040.39
-"181",2014-07-01,"Gas/Diesel/Fuel Oil",377876734.1
-"182",2014-07-01,"Otro Kerosene",362
-"183",2014-07-01,"Gas Natural",2752.91
-"184",2014-08-01,NA,2529564045.57
-"185",2014-08-01,"Gasolina licuado de petroleo",95.1
-"186",2014-08-01,"Gas/Diesel/Fuel Oil",135932635
-"187",2014-08-01,"Gas Natural",75.75
-"188",2014-09-01,NA,2916106660.21
-"189",2014-09-01,"Otro Kerosene",61.2
-"190",2014-09-01,"Gas/Diesel/Fuel Oil",445382203.68
-"191",2014-09-01,"Gasolina licuado de petroleo",333.14
-"192",2014-10-01,NA,2888386173.9
-"193",2014-10-01,"Gas/Diesel/Fuel Oil",339089523
-"194",2014-10-01,"Gasolina licuado de petroleo",2141.43
-"195",2014-10-01,"Otro Kerosene",26192234.9
-"196",2014-10-01,"Gas Natural",1189.61
-"197",2014-11-01,NA,2316994542.93
-"198",2014-11-01,"Gas/Diesel/Fuel Oil",323647227
-"199",2014-11-01,"Otro Kerosene",26700442
-"200",2014-11-01,"Gasolina licuado de petroleo",167.12
-"201",2014-11-01,"Gas Natural",63.83
+"26",2011-04-01,"Querosene.Jet Fuel",358705.64
+"27",2011-05-01,NA,5066880060.32
+"28",2011-05-01,"Gasolina licuado de petroleo",48662.57
+"29",2011-05-01,"Gasolina motor",18215776.4
+"30",2011-05-01,"Otro Kerosene",913.52
+"31",2011-05-01,"Gas/Diesel/Fuel Oil",256508313.02
+"32",2011-05-01,"Querosene.Jet Fuel",404497.4
+"33",2011-06-01,NA,4772947983.91
+"34",2011-06-01,"Gasolina licuado de petroleo",40272.52
+"35",2011-06-01,"Gasolina motor",38244333.54
+"36",2011-06-01,"Gas/Diesel/Fuel Oil",168755483.01
+"37",2011-06-01,"Gasolina aviación",41
+"38",2011-07-01,NA,4802314795.97
+"39",2011-07-01,"Gasolina motor",12652378.95
+"40",2011-07-01,"Gas/Diesel/Fuel Oil",96295606.68
+"41",2011-07-01,"Gasolina licuado de petroleo",57100.92
+"42",2011-08-01,NA,5002093567.84
+"43",2011-08-01,"Gasolina motor",8221401.68
+"44",2011-08-01,"Gas/Diesel/Fuel Oil",68553251.41
+"45",2011-08-01,"Gasolina licuado de petroleo",1583948.86
+"46",2011-08-01,"Gas Natural",8325
+"47",2011-09-01,NA,5303168854.89
+"48",2011-09-01,"Gasolina motor",44960934.02
+"49",2011-09-01,"Gas/Diesel/Fuel Oil",225643075.37
+"50",2011-09-01,"Gas Natural",3071.3
+"51",2011-09-01,"Gasolina licuado de petroleo",881744.17
+"52",2011-10-01,NA,5370351693.76
+"53",2011-10-01,"Gasolina motor",42872901.33
+"54",2011-10-01,"Gas/Diesel/Fuel Oil",160549224.54
+"55",2011-10-01,"Gasolina aviación",11989.87
+"56",2011-10-01,"Otro Kerosene",4
+"57",2011-10-01,"Gasolina licuado de petroleo",2395392.61
+"58",2011-11-01,NA,5365134417.14
+"59",2011-11-01,"Gasolina motor",32240261.01
+"60",2011-11-01,"Otro Kerosene",816.65
+"61",2011-11-01,"Gas/Diesel/Fuel Oil",265977365.74
+"62",2011-11-01,"Gasolina licuado de petroleo",2334492.85
+"63",2011-12-01,NA,4927582531.36
+"64",2011-12-01,"Gasolina motor",20796074.42
+"65",2011-12-01,"Gas/Diesel/Fuel Oil",26007040.86
+"66",2011-12-01,"Gasolina licuado de petroleo",2503249.45
+"67",2011-12-01,"Gas Natural",1264.3
+"68",2012-01-01,NA,3902607877.38
+"69",2012-01-01,"Gas/Diesel/Fuel Oil",329414793.58
+"70",2012-01-01,"Gasolina licuado de petroleo",18976.25
+"71",2012-02-01,NA,4201181049.98
+"72",2012-02-01,"Gas/Diesel/Fuel Oil",158448702.82
+"73",2012-02-01,"Gasolina licuado de petroleo",28229.74
+"74",2012-02-01,"Gas Natural",1360
+"75",2012-02-01,"Querosene.Jet Fuel",310958.75
+"76",2012-03-01,NA,4558026427.87
+"77",2012-03-01,"Gas/Diesel/Fuel Oil",202073512.43
+"78",2012-03-01,"Gasolina licuado de petroleo",57548.09
+"79",2012-04-01,NA,4072527134.81
+"80",2012-04-01,"Gas/Diesel/Fuel Oil",149415498.03
+"81",2012-04-01,"Gasolina licuado de petroleo",37822.58
+"82",2012-05-01,NA,4833753395.97
+"83",2012-05-01,"Gas/Diesel/Fuel Oil",385039751.79
+"84",2012-05-01,"Gasolina licuado de petroleo",56265
+"85",2012-06-01,NA,4481977872.02
+"86",2012-06-01,"Gas/Diesel/Fuel Oil",362335305.21
+"87",2012-06-01,"Gasolina licuado de petroleo",54388.75
+"88",2012-07-01,NA,4638612235.44
+"89",2012-07-01,"Gas/Diesel/Fuel Oil",300093529.22
+"90",2012-07-01,"Gasolina licuado de petroleo",43486.08
+"91",2012-07-01,"Otro Kerosene",1
+"92",2012-08-01,NA,4772614670.5
+"93",2012-08-01,"Gas/Diesel/Fuel Oil",191553736.03
+"94",2012-08-01,"Gasolina licuado de petroleo",71453.98
+"95",2012-08-01,"Gas Natural",770
+"96",2012-09-01,NA,4164390278.97
+"97",2012-09-01,"Gas/Diesel/Fuel Oil",267963542.17
+"98",2012-09-01,"Gasolina licuado de petroleo",34173.2
+"99",2012-10-01,NA,4721615218.99
+"100",2012-10-01,"Gas/Diesel/Fuel Oil",224482761.86
+"101",2012-10-01,"Gasolina licuado de petroleo",34306.4
+"102",2012-11-01,NA,4648809488.94
+"103",2012-11-01,"Gas/Diesel/Fuel Oil",222130435.26
+"104",2012-11-01,"Gasolina licuado de petroleo",66842.6
+"105",2012-12-01,NA,4219569963.83
+"106",2012-12-01,"Gas/Diesel/Fuel Oil",92547854.96
+"107",2012-12-01,"Gasolina licuado de petroleo",146494.4
+"108",2013-01-01,NA,5338680263.3
+"109",2013-01-01,"Gas/Diesel/Fuel Oil",425463053.97
+"110",2013-01-01,"Gasolina licuado de petroleo",65323.38
+"111",2013-01-01,"Gas Natural",7950
+"112",2013-02-01,NA,5303742560.37
+"113",2013-02-01,"Gas/Diesel/Fuel Oil",251321008.05
+"114",2013-02-01,"Gasolina licuado de petroleo",98384.59
+"115",2013-03-01,NA,5511200190.33
+"116",2013-03-01,"Gas/Diesel/Fuel Oil",246168301.56
+"117",2013-03-01,"Gasolina licuado de petroleo",64754
+"118",2013-04-01,NA,5886739725.92
+"119",2013-04-01,"Gas/Diesel/Fuel Oil",159945593.76
+"120",2013-04-01,"Gasolina licuado de petroleo",71633.92
+"121",2013-04-01,"Gas Natural",1687.3
+"122",2013-05-01,NA,5342062197.17
+"123",2013-05-01,"Gas/Diesel/Fuel Oil",345440930.58
+"124",2013-05-01,"Otro Kerosene",15521.39
+"125",2013-05-01,"Gasolina licuado de petroleo",35252.25
+"126",2013-06-01,NA,5739255542.74
+"127",2013-06-01,"Gas/Diesel/Fuel Oil",182847194.43
+"128",2013-06-01,"Gasolina licuado de petroleo",34066.68
+"129",2013-06-01,"Otro Kerosene",24529.6
+"130",2013-06-01,"Gas Natural",4678.92
+"131",2013-07-01,NA,5633904358.49
+"132",2013-07-01,"Gasolina licuado de petroleo",80266.9
+"133",2013-07-01,"Otro Kerosene",152.76
+"134",2013-07-01,"Gas/Diesel/Fuel Oil",364998658.18
+"135",2013-08-01,NA,5244958355.85
+"136",2013-08-01,"Gas/Diesel/Fuel Oil",226327105.42
+"137",2013-08-01,"Gasolina licuado de petroleo",45212.44
+"138",2013-08-01,"Gas Natural",1536.63
+"139",2013-09-01,NA,5261719030.56
+"140",2013-09-01,"Gas/Diesel/Fuel Oil",408908550.57
+"141",2013-09-01,"Otro Kerosene",6967.61
+"142",2013-09-01,"Querosene.Jet Fuel",200
+"143",2013-09-01,"Gas Natural",6148.68
+"144",2013-09-01,"Gasolina licuado de petroleo",67502.8
+"145",2013-10-01,NA,6120935901.33
+"146",2013-10-01,"Gas/Diesel/Fuel Oil",268093468.96
+"147",2013-10-01,"Gasolina licuado de petroleo",34358.72
+"148",2013-10-01,"Gas Natural",2603.94
+"149",2013-11-01,NA,6333811504.56
+"150",2013-11-01,"Otro Kerosene",12060.57
+"151",2013-11-01,"Gas/Diesel/Fuel Oil",202112558.9
+"152",2013-11-01,"Gasolina licuado de petroleo",99870.4
+"153",2013-12-01,NA,5313550282.16
+"154",2013-12-01,"Gas/Diesel/Fuel Oil",204184457.34
+"155",2013-12-01,"Gasolina licuado de petroleo",89647.7
+"156",2014-01-01,NA,5092341037.4
+"157",2014-01-01,"Gas/Diesel/Fuel Oil",345856174.32
+"158",2014-01-01,"Gas Natural",2391.5
+"159",2014-01-01,"Gasolina licuado de petroleo",67162.4
+"160",2014-02-01,NA,5113727095.45
+"161",2014-02-01,"Gas/Diesel/Fuel Oil",361610612.68
+"162",2014-02-01,"Gasolina licuado de petroleo",35288.49
+"163",2014-02-01,"Otro Kerosene",10246.55
+"164",2014-03-01,NA,6321262739.23
+"165",2014-03-01,"Gasolina licuado de petroleo",162748.83
+"166",2014-03-01,"Otro Kerosene",5123.22
+"167",2014-03-01,"Gas/Diesel/Fuel Oil",315485852.51
+"168",2014-04-01,NA,5838313495.71
+"169",2014-04-01,"Gasolina licuado de petroleo",797.79
+"170",2014-04-01,"Gas/Diesel/Fuel Oil",268391760.43
+"171",2014-04-01,"Gas Natural",2581.11
+"172",2014-05-01,NA,5876870030.32
+"173",2014-05-01,"Otro Kerosene",11044.62
+"174",2014-05-01,"Gas/Diesel/Fuel Oil",299280650.75
+"175",2014-05-01,"Gasolina licuado de petroleo",23832.38
+"176",2014-06-01,NA,5419292952.04
+"177",2014-06-01,"Gas/Diesel/Fuel Oil",349061012.13
+"178",2014-06-01,"Gasolina licuado de petroleo",768.62
+"179",2014-07-01,NA,7239293715.49
+"180",2014-07-01,"Gasolina licuado de petroleo",16828.9
+"181",2014-07-01,"Gas/Diesel/Fuel Oil",351296997.61
+"182",2014-07-01,"Otro Kerosene",5123.23
+"183",2014-07-01,"Gas Natural",26250
+"184",2014-08-01,NA,5878195861.85
+"185",2014-08-01,"Gasolina licuado de petroleo",3496.64
+"186",2014-08-01,"Gas/Diesel/Fuel Oil",122746683.96
+"187",2014-08-01,"Gas Natural",12631.63
+"188",2014-09-01,NA,6593680465.48
+"189",2014-09-01,"Otro Kerosene",1243.29
+"190",2014-09-01,"Gas/Diesel/Fuel Oil",393845054.73
+"191",2014-09-01,"Gasolina licuado de petroleo",1720.9
+"192",2014-10-01,NA,6329122275.15
+"193",2014-10-01,"Gas/Diesel/Fuel Oil",291117415.3
+"194",2014-10-01,"Gasolina licuado de petroleo",17435.53
+"195",2014-10-01,"Otro Kerosene",24497134.46
+"196",2014-10-01,"Gas Natural",14766.78
+"197",2014-11-01,NA,6108120464.42
+"198",2014-11-01,"Gas/Diesel/Fuel Oil",260605519.55
+"199",2014-11-01,"Otro Kerosene",23213105.22
+"200",2014-11-01,"Gasolina licuado de petroleo",1172.16
+"201",2014-11-01,"Gas Natural",389.4
